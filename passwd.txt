@@ -1,0 +1,8 @@
+tomcat:tomcat
+tomcat:admin
+tomcat:password
+tomcat:s3cert
+tomcat:
+admin:admin
+root:root
+admin:password
